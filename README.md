@@ -1,2 +1,2 @@
 # erickxavier.github.io
-Developer/designer website.
+Developer website.
